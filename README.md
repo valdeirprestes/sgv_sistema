@@ -1,4 +1,4 @@
-# svg_sistema
+# sgv_sistema
 Trabalho de construção de software - UEM 2022
 
 
